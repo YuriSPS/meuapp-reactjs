@@ -13,8 +13,8 @@ MeuApp é um projeto de aprendizagem ao Framework ReactJS onde o objetivo é mos
 
 ## Layout antes da requisição
 
-![](/src/img/1.png);
+![](../src/img/1.png);
 
 ## Layout depois da requisição
 
-![](/src/img/2.png);
+![](../src/img/2.png);
